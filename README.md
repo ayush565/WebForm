@@ -1,5 +1,5 @@
 # WebForm
-This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations."
+This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations.A validated form is created which stores values in JPDB."
 # Benefits of using JsonPowerDB
 Simplest way to retrieve data in a JSON format.
 Schema-free, Simple to use, Nimble and In-Memory database.
